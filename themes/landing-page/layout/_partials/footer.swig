@@ -4,8 +4,7 @@
         <div class="row">
             <div class="col-md-8">
                 {% set year = date(Date.now(), "YYYY")%}
-                <p class="copyright text-muted small">Copyright &copy; {{ year }} {{ config.author }}.
-                    All Rights Reserved.</p>
+                <p class="copyright text-muted small">Copyright &copy; {{ year }} - Wspierane z ❤️ przez {{ config.author }} dla: {{ config.customer }}</p>
             </div>
             <div class="col-md-4">
                 Powered by <a href="http://hexo.io">Hexo</a>, theme ported from open source Bootstrap
