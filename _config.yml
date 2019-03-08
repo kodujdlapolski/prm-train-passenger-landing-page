@@ -78,4 +78,5 @@ theme: landing-page
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: heroku
+  repo: https://git.heroku.com/pasazer-z-niepelnosprawnoscia.git  
