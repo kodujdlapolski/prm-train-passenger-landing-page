@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Aplikacja dla pasażerów z niepełnosprawnością
+subtitle: Komfortowa i bezpieczna podróż pociągiem dla każdego
 description:
 keywords:
-author: John Doe
-language:
+author: Koduj dla Polski 
+customer: Łódzka Kolej Aglomeracyjna
+language: pl-PL
 timezone:
 
 # URL
