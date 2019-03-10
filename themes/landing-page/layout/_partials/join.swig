@@ -26,7 +26,7 @@
 				
 				<ul class="list-inline" style="text-align:center">
 				<li>
-				<a href="#" class="btn btn-default btn-lg">
+				<a href="https://www.surveymonkey.com/r/GB88JT5" class="btn btn-default btn-lg">
                   <i class="fa fa-hand-stop-o"></i> <span class="network-name">Zgłaszam się!</span>
                 </a>
 				</li>
