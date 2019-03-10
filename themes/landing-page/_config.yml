@@ -11,8 +11,7 @@ cover_images:
 banner_image: /img/banner-bg.jpg
 
 # Navigation items
-navigation:
-    about: /about
+navigation:    
 
 social:
   - title:  zhihu
