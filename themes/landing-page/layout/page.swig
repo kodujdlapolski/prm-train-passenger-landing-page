@@ -23,7 +23,6 @@
 						<li><a href="{{ url_for(tag.path) }}" rel="tag">{{ tag.name }}</a></li>
 						{% endfor %}
 					</ul>
-					<p class="post-meta">Posted by {{ page.author || config.author }} on {{ page.date.format(config.date_format) }}</p>
 				</div>
 			</div>
 		</div>
@@ -36,8 +35,6 @@
 				<div class="post-container">
 					{{ page.content }}
 				</div>
-				{% include '_partials/sharing.swig' %}
-				{% include '_partials/comments.swig' %}
 			</div>
 		</div>
 	</div>
