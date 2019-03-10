@@ -19,17 +19,17 @@
 						<ul class="list-inline intro-social-buttons">
 							<li>
 								<a href="#services" class="page-scroll btn btn-default btn-lg">
-                  <i class="fa fa-book fa-fw"></i> <span class="network-name">Posts</span>
+                  <i class="fa fa-lightbulb-o"></i> <span class="network-name">O co chodzi?</span>
                 </a>
 							</li>
               <li>
-								<a href="{{ url_for('/about') }}" class="page-scroll btn btn-default btn-lg">
-                  <i class="fa fa-fw fa-question-circle"></i> <span class="network-name">About</span>
+								<a href="#application" class="page-scroll btn btn-default btn-lg">
+                  <i class="fa fa-laptop"></i> <span class="network-name">Chcę pomóc!</span>
                 </a>
 							</li>
               <li>
 								<a href="#contact" class="page-scroll btn btn-default btn-lg">
-                  <i class="fa fa-fw fa-comments"></i> <span class="network-name">Contact</span>
+                  <i class="fa fa-fw fa-comments"></i> <span class="network-name">Kontakt</span>
                 </a>
 							</li>
               <li>
