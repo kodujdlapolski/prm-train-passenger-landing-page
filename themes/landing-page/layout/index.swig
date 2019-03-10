@@ -46,9 +46,9 @@
               {% endfor %}
             </ul -->
 					</div>
-          <div class="col-lg-2">
+         <!-- <div class="col-lg-2">
             <a class="next-img"><i class="fa fa-chevron-right fa-fw"></i></a>
-          </div>
+          </div>-->
         </div>
 			</div>
 

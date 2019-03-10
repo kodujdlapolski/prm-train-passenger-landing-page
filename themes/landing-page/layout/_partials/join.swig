@@ -21,15 +21,18 @@
 				<li>✅ a jeśli jesteś bardziej doświadczony - to Ty możesz współdecydować o wykorzystanych technologiach lub architekturze</li>
 				</ul>
 				</div>				
-				<div class="row">
-				<div class="col-lg-12 lead">
-				<div class="d-flex justify-content-center">
-				<div>
+				<div class="row">		
+				<div class="col-lg-12">		
+				
+				<ul class="list-inline" style="text-align:center">
+				<li>
 				<a href="#" class="btn btn-default btn-lg">
                   <i class="fa fa-hand-stop-o"></i> <span class="network-name">Zgłaszam się!</span>
                 </a>
-				</div>				
-				</div>
+				</li>
+				</ul>
+				
+				
 				</div>
 				</div>
 			</div>
