@@ -13,6 +13,7 @@
 
     <!-- Custom CSS -->
     <link href="{{ url_for("css") }}/landing-page.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
 
     <!-- Code Highlight CSS -->
     <link href="{{ url_for("css") }}/highlight.css" rel="stylesheet">
