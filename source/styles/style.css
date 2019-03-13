@@ -1,0 +1,17 @@
+.logo-row {
+margin-top:50px;
+display:flex;
+justify-content:center;
+}
+
+@media only screen 
+    and (min-device-width : 375px)
+    and (max-device-width : 667px)
+    {
+        .logo-row img{
+            width:200px;
+        }
+        .navbar-brand {
+            font-size: 0.75em;
+        }
+    }

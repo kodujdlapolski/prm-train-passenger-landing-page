@@ -1,5 +1,25 @@
 <section id="about">	
 		<div class="container">
+		<!--<div class="row">		
+				<div class="col-lg-6">		
+				<img src="images/lka-logo.png"/>
+				</div>
+				<div class="col-lg-6">		
+
+				<img src="images/kdp-logo.png"/>			
+				
+				</div>
+				</div>-->
+				<div class="row">
+				<div class="logo-row">
+				<div class="p-2">
+				<img src="images/lka-logo.png"/>				
+				</div>
+				<div class="p-2">
+				<img src="images/kdp-logo.png"/>
+				</div>
+				</div>
+				</div>
 
 			<div class="row">
 				<div class="col-lg-12">
