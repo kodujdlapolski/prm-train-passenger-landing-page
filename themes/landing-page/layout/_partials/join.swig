@@ -9,7 +9,7 @@
 			<div class="row">
 				<div class="col-lg-12 lead">
 				<p>
-				Szukamy programistów, grafików, speców od UX, testerów - wszystkich tych, którzy chcieliby współtworzyć ten projekt. Nieważne, czy jesteś początkujący w danej dziedzinie, czy masz już wieloletnie doświadczenie zawodowe - każda para rąk jest przydatna. Nie ma znaczenia, "skąd klikasz" - aplikacja będzie wykrozystywana najpierw w aglomeracji łódzkiej, ale w przyszłości może pomóc także osobom, które korzystają z kolei w Twoim mieście.
+				Szukamy programistów, grafików, speców od UX, testerów - wszystkich tych, którzy chcieliby współtworzyć ten projekt. Nieważne, czy jesteś początkujący w danej dziedzinie, czy masz już wieloletnie doświadczenie zawodowe - każda para rąk jest przydatna. Nie ma znaczenia, "skąd klikasz" - aplikacja będzie wykorzystywana najpierw w aglomeracji łódzkiej, ale w przyszłości może pomóc także osobom, które korzystają z kolei w Twoim mieście.
 				</p>								
 				<p>Zobacz, co możesz zyskać, współpracując przy projekcie:</p>
 				<ul style="list-style-type:none;padding:0px;">
